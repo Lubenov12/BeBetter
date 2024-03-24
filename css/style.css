@@ -347,8 +347,10 @@ button {
 /** banner section **/
 
 .banner_main {
-  background-image: url("/images/header.jpg");
+  background-image: url("../images/header.jpg");
   height: 100vh;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -656,7 +658,7 @@ button {
 }
 
 .copyright a {
-  color: #fff;
+  color: #000000;
 }
 
 .copyright a:hover {
