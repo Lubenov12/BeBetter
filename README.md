@@ -1,4 +1,4 @@
-# BeBetter \
+# BeBetter 
  BeBetter Gym is your go-to resource for  wellness. Join  to start your journey toward lifelong wellness. \
  Used  template: https://www.free-css.com/free-css-templates/page289/bluene \
  My project: \
